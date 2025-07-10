@@ -14,3 +14,5 @@ something from simple text
 for pull request check
 
 with different sha
+
+now print sha

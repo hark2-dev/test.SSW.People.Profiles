@@ -7,6 +7,6 @@ quoteAuthor: "Anonymous"
 
 hark's edit from app
 
-
-
 something from rich text
+
+something from simple text
